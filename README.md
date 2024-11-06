@@ -5,7 +5,7 @@
 </head>
 <body>
   
-<marquee>Kusnul irvan affandi>/marquee>
+<marquee>Kusnul irvan affandi</marquee>
 
 </body>
 </html>
